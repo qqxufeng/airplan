@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-
+1.if
+  elif
+  else
+  条件循环语句
+2. '%.2f' % 保留2位小数
 """
 
 money = float (input("请输入机票价格："))
