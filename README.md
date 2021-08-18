@@ -15,3 +15,13 @@
 5. 添加自助查询机票价格并计算，选择航班线路
       
 以上目标
+
+主体逻辑完成后很长时间没动力了。。。
+继续完善吧，把python程序转换成exe  用了 pyinstaller
+需要pip 安装 pyinstaller
+
+完成后 直接在py程序目录 运行cmd
+pyinstaller -F *.py
+dist 目录下就是生成的exe
+第一次运行会闪退，原因，没有GUI
+先加个暂停吧
